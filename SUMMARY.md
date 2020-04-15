@@ -4,5 +4,5 @@
 
 ## 感悟
 
-* [VeeR 复盘](gan-wu/veer-fu-pan.md)
+* [创业复盘](gan-wu/veer-fu-pan.md)
 
